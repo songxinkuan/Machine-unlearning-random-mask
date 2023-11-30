@@ -1,5 +1,5 @@
 # Machine-unlearning-random-mask: randomly mask part of weights(without bn layer)
-!./random_mask.png
+! random_mask.png
 
 
 #### public score: 0.0795
